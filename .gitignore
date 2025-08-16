@@ -1,0 +1,90 @@
+# Node
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# React
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Misc
+coverage/
+
+# Mac
+*.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.bat
+*.cmd
+
+# Others
+*.swp
+*.swo
+
+# Vite
+.vite
+
+# Tailwind
+.tailwind*
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PHP
+/vendor/
+
+# Database
+*.sqlite3
+*.db
+*.sql
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+
+# Backup files
+*.bak
+*.tmp
+
+# Forum
+forum/forum.sql
+forum/conn.php
